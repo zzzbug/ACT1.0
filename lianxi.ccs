@@ -1,0 +1,39 @@
+<Solution>
+  <PropertyGroup Name="lianxi" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="GAME">
+          <Image Name="Enemy.png" />
+          <Image Name="forestdance.png" />
+          <Project Name="gameScene.csd" Type="Scene" />
+          <Image Name="human.png" />
+        </Folder>
+        <Folder Name="HELLO">
+          <Image Name="background.png" />
+          <Project Name="HELLOScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="HELP">
+          <Project Name="HELPScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="RANKINGS">
+          <Project Name="RANKINGSScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="REGISTER">
+          <Project Name="REGISTERScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="SET">
+          <Project Name="SETScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="TIPS">
+          <Project Name="Skeleton.csd" Type="Skeleton" />
+          <Image Name="Enemy1.png" />
+          <Image Name="Enemy2.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

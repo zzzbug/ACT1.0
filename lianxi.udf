@@ -1,0 +1,25 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="HELLO/HELLOScene.csd" />
+          <FilePathData Path="GAME/gameScene.csd" />
+          <FilePathData Path="HELP/HELPScene.csd" />
+          <FilePathData Path="REGISTER/REGISTERScene.csd" />
+          <FilePathData Path="RANKINGS/RANKINGSScene.csd" />
+          <FilePathData Path="SET/SETScene.csd" />
+          <FilePathData Path="TIPS/Skeleton.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="TIPS/Skeleton.csd" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
